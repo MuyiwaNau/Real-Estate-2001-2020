@@ -1,4 +1,4 @@
-![image](https://github.com/MuyiwaNau/Real-Estate-2001-2020/assets/34709932/6b9d88be-9dcb-45d4-817e-3736d649fa9c)# Real-Estate-2001-2020
+# Real-Estate-2001-2020
 
 Here's a short description of the dataset:
 
